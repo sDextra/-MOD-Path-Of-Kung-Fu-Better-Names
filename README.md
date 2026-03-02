@@ -1,3 +1,4 @@
+"PATH OF KUNG FU"
 This is a small quality-of-life mod that replaces the default English/Western random names (John Smith, Mary Johnson, etc.) with proper Chinese-style names in pinyin.
 Now newly spawned NPCs, family members and other characters will get names like Li Shan, Wang Mei, Chen Hao, Zhao Fei, Ma Xue, Yang Kai and so on — exactly the way it feels right in a wuxia world.
 
